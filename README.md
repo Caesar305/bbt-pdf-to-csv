@@ -1,5 +1,5 @@
 # wellsfargo-pdf-to-csv
-Simple Script to import Wells Fargo Bank statements from PDF to CSV
+Simple Script to import BB&T statements from PDF to CSV
 
 
 
