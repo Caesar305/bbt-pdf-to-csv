@@ -1,4 +1,4 @@
-# wellsfargo-pdf-to-csv
+# bbt-pdf-to-csv
 Simple Script to import BB&T statements from PDF to CSV
 
 
